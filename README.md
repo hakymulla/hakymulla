@@ -2,7 +2,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Kazeem Hakeem 👨‍💻
 
 I am a Data Scientist enthusiast and Python Developer. I am passionate about technologies and love to learn new things.
-Actively participate in Machine Learning competition on Kaggle, Zinid, Hackereath.
+Actively participate in Machine Learning competitions on Kaggle, Zinid, Hackereath.
 
 <p>&nbsp;</p>
 
@@ -15,7 +15,7 @@ Here are a few things I've picked up along my learning journey.
 * 🛢️ MySQL | SQLite 
 * :octocat: Git | Github
 * 🌐 HTML | CSS
-* ☁ Django
+* 🔗 Django
 * 📟 Kali Linux
 
 <p>&nbsp;</p>
@@ -39,9 +39,9 @@ Here are a few things I've picked up along my learning journey.
 ## 📈 My Stats:     <a href="https://github.com/hakymulla"> <img src="https://komarev.com/ghpvc/?username=hakymulla&label=Profile+Views&color=2e8b57&style=flat" /></a>
 <p align="center">
 <a href="https://github.com/hakymulla">
-  <img src="https://github-readme-stats.vercel.app/api?username=hakymulla&count_private=true&show_icons=true&theme=gruvbox" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=hakymulla&count_private=true&show_icons=true&theme=dark" /></a>
 <a href="https://github.com/hakymulla/">
-  <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakymulla&layout=compact&theme=gruvbox" /></a>
+  <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakymulla&layout=compact&theme=dark" /></a>
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hakymulla/hakymulla)
