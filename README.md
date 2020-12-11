@@ -2,7 +2,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Kazeem Hakeem 👨‍💻
 
 I am a Data Scientist enthusiast and Python Developer. I am passionate about technologies and love to learn new things.
-I actively participate in Machine Learning competitions on [Kaggle](https://kaggle.com/hakymulla), [zindi](https://zindi.africa/users/hakymulla), [Hackereath](https://www.hackerearth.com/@hakymulla)
+I actively participate in Machine Learning competitions on [Kaggle](https://kaggle.com/hakymulla), [Zindi](https://zindi.africa/users/hakymulla), [Hackerearth](https://www.hackerearth.com/@hakymulla)
 
 <p>&nbsp;</p>
 
