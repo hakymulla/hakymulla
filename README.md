@@ -3,20 +3,18 @@
 
 I am a Machine-learning enthusiast and Python Developer. I am passionate about technologies and love to learn new things.
 
-
+<p>&nbsp;</p>
 
 ## ⚡ Tech Stack
 
 Here are a few things I've picked up along my learning journey.
 
-* 🗣 Python | Java | SQL 
-* 🖇️ Django
+* 🗣 Python | SQL 
+* 🖇️ Pytorch | FastAI 
 * 🛢️ MySQL | SQLite 
 * :octocat: Git | Github
 * 🌐 HTML | CSS
-* ☁ Firebase
-* 💠 Blender
-* 📟 Raspberry PI | Arduino | NodeMCU
+* ☁ Django
 
 <p>&nbsp;</p>
 
