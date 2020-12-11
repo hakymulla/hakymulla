@@ -1,9 +1,8 @@
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Adnan Azmee 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Kazeem Hakeem 👨‍💻
 
 I am a Machine-learning enthusiast and Python Developer. I am passionate about technologies and love to learn new things.
 
-#### 🔭 I’m currently looking for new opportunities .
 
 
 ## ⚡ Tech Stack
@@ -19,12 +18,6 @@ Here are a few things I've picked up along my learning journey.
 * 💠 Blender
 * 📟 Raspberry PI | Arduino | NodeMCU
 
-## 📫 Get in touch
-- LinkedIn - [Adnan Azmee](https://in.linkedin.com/in/adnanazmee)
-- Twitter - [@AzmeeAdnan](https://twitter.com/AzmeeAdnan)
-- Reddit - [adnanazmee](https://reddit.com/user/adnanazmee)
-
- or give some ♥ on [mail](mailto:adnanazmee@gmail.com) .
 
 
 
