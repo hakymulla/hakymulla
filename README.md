@@ -2,13 +2,13 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Kazeem Hakeem 👨‍💻
 
 I am a Data Scientist enthusiast and Python Developer. I am passionate about technologies and love to learn new things.
-Actively participate in Machine Learning competitions on Kaggle, Zinid, Hackereath.
+I actively participate in Machine Learning competitions on [Kaggle](https://kaggle.com/hakymulla), [zindi](https://zindi.africa/users/hakymulla), [Hackereath](https://www.hackerearth.com/@hakymulla)
 
 <p>&nbsp;</p>
 
 ## 📚 Tech Stack
 
-Here are a few things I've picked up along my learning journey.
+Here are a few things I think i know 🤪
 
 * 🗣 Python | SQL 
 * 🖇️ Pytorch | FastAI 
@@ -20,7 +20,7 @@ Here are a few things I've picked up along my learning journey.
 
 <p>&nbsp;</p>
 
-## ⚡📚 Fun Fact
+## ⚡ Fun Fact
  
 * 💻 Pentesting on HackTheBox
 * 🎧 Podcast (Darknet Diaries 🥰 Smashing Security 😅)
