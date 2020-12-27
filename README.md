@@ -25,7 +25,9 @@ Here are a few things I think i know 🤪
 * 💻 Pentesting on HackTheBox
 * 🎧 Podcast (Darknet Diaries 🥰 Smashing Security 😅)
 * [TryHackMe](https://tryhackme.com/p/hakymulla) <img src="https://tryhackme-badges.s3.amazonaws.com/hakymulla.png" alt="TryHackMe", height='40'>>
-<img src="https://img.icons8.com/color/48/000000/twitter.png" alt='twitter' height='40'></a>
+
+<a href="https://tryhackme.com/p/hakymulla">
+  <img width = "40%"src="https://tryhackme-badges.s3.amazonaws.com/hakymulla.png" /></a>
 
 <p>&nbsp;</p>
 
