@@ -24,6 +24,7 @@ Here are a few things I think i know 🤪
  
 * 💻 Pentesting on HackTheBox
 * 🎧 Podcast (Darknet Diaries 🥰 Smashing Security 😅)
+* [TryHackMe](https://tryhackme.com/p/hakymulla) <script src="https://tryhackme.com/badge/190097"></script>
 
 <p>&nbsp;</p>
 
