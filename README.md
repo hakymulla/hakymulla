@@ -26,8 +26,7 @@ Here are a few things I think i know 🤪
 * 🎧 Podcast (Darknet Diaries 🥰 Smashing Security 😅)
 * [TryHackMe](https://tryhackme.com/p/hakymulla) <img src="https://tryhackme-badges.s3.amazonaws.com/hakymulla.png" alt="TryHackMe", height='40'>>
 
-<a href="https://tryhackme.com/p/hakymulla">
-  <img width = "40%"src="https://tryhackme-badges.s3.amazonaws.com/hakymulla.png" /></a>
+<a href="https://tryhackme.com/p/hakymulla"> <img src="https://tryhackme-badges.s3.amazonaws.com/hakymulla.png" /></a>
 
 <p>&nbsp;</p>
 
